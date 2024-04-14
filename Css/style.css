@@ -1,0 +1,73 @@
+.title-insta{
+    font-family: "Pacifico", cursive;
+    font-size: 40px;
+}
+.con{
+    width: 25em;
+    border: 0.1px solid rgb(204, 200, 200);
+    margin: auto;
+    text-align: center;
+    padding: 15px;
+}
+.npt-email , .npt-pass{
+    width: 220px;
+    height: 30px;
+    margin: 3px 0px;
+    border: 0;
+}
+.btn-log{
+    width: 229px;
+    height: 28px;
+    color: white;
+    background-color: #4CB5F9;
+    border: 0;
+    border-radius: 8px;
+    margin: 7px 0px;
+}
+.or{
+    display: block;
+    margin:20px 0px ;
+}
+.icon{
+    color: blue;
+    margin: 0px 5px;
+}
+.icon-text{
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a{
+    text-decoration: none;
+}
+.forgot{
+    font-size: 13px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 19px;
+}
+.sign-up{
+    width: 25em;
+    border: 0.1px solid rgb(204, 200, 200);
+    padding: 15px;
+    text-align: center;
+    margin: 10px auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.sign-up a{
+    font-weight: 500;
+}
+.get-app{
+    width: 25em;
+    padding: 15px;
+    border: 0.1px solid rgb(204, 200, 200); 
+    margin: 10px auto;
+    text-align: center;
+}
+img{
+    width: 120px;
+    height: 40px;
+    margin-top: 15px;
+}
+.get-app span{
+    display: block;
+}
